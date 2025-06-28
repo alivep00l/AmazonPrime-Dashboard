@@ -24,19 +24,9 @@ This repository contains an interactive **Power BI dashboard** that visualizes k
 
 ---
 
-## 🧹 Data Preparation
-
-All data cleaning, transformation, and modeling were done using:
-- **Power Query** – for null handling, splitting multi-value columns (like genres), filtering irrelevant entries
-- **DAX** – for calculated measures and fields (e.g., categorizing content types, aggregating totals)
-
----
-
 ## 🔧 Tools & Technologies Used
 
 - **Power BI Desktop**
-- **Power Query Editor**
-- **DAX (Data Analysis Expressions)**
 - **Bing Maps (for geo-visualization)**
 
 ---
@@ -52,7 +42,7 @@ All data cleaning, transformation, and modeling were done using:
 
 ## 📁 Dataset
 
-- **Source**: Public dataset from [Kaggle](https://www.kaggle.com/) or similar OTT content aggregators.
+- **Source**: Public dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows) or similar OTT content aggregators.
 - **Fields Used**: Title, Country, Genre, Age Rating, Type, Release Year, Director, Duration
 
 ---
@@ -66,6 +56,3 @@ To explore the dashboard:
 
 ---
 
-## 📬 Contact
-
-For questions, collaboration, or feedback, feel free to reach out.
